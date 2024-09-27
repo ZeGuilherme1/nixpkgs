@@ -23539,6 +23539,12 @@
     githubId = 25164338;
     keys = [ { fingerprint = "065A 0A98 FE61 E1C1 41B0  AFE7 64FA BC62 F457 2875"; } ];
   };
+  zeguilherme = {
+    name = "José Guilherme Santos Riberto";
+    email = "joseguilhermeriberto@gmail.com";
+    github = "ZeGuilherme1";
+    githubId = 145349759;
+  };
   zelkourban = {
     name = "zelkourban";
     email = "zelo.urban@gmail.com";
